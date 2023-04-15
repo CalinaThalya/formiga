@@ -1,4 +1,6 @@
+package br.com.fiap.formigueiro;
 
+public class Formiga {
 
 	// [modificador] [tipo] [nome] = [valor]
 	private int velocidade;
@@ -63,3 +65,4 @@
 	
 	
 	
+}
